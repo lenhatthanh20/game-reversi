@@ -1,0 +1,17 @@
+﻿Build started 12/11/2015 9:56:11 SA.
+     1>Project "D:\41303594\SourceCode\AssignmentKTLT\AssignmentKTLT.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AssignmentKTLT.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         AssignmentKTLT.vcxproj -> D:\41303594\SourceCode\Debug\AssignmentKTLT.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\AssignmentKTLT.unsuccessfulbuild".
+         Touching "Debug\AssignmentKTLT.lastbuildstate".
+     1>Done Building Project "D:\41303594\SourceCode\AssignmentKTLT\AssignmentKTLT.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
